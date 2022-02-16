@@ -10,6 +10,7 @@ body {
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 21px;
+  text-align: center;
 }
 
 img {
@@ -18,12 +19,28 @@ img {
 
 h1 {
   font-size: 50px;
+  font-weight: normal;
 }
 
-.container {
-  margin: 0 auto;
+h2 {
+  font-size: 42px;
+  font-weight: 300;
 }
 
-#title {
-  text-align: center;
+.header {
+  margin-bottom: 25px;
+}
+
+#coming-soon {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+#footer {
+  text-align: right;
+  margin-right: 25px;
+}
+
+.text-gray {
+  color: gray;
 }
